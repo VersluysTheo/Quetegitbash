@@ -1,0 +1,51 @@
+Quête: Git LIBRE
+A tour de rôle!
+
+Définissez un ordre de taches
+Définissez un ordre de passage et travaillez à tour de rôle(exemple: Paul,Jean,Manu,Asia)
+Paul commence à coder l'étape 1 tandis que Jean,Manu,Asia l'attendent. Lorsque Paul à terminer.L'équipe
+peut pull son travail et Manu peut commencer l'étape 2 tandis que le reste de l'équipe l'attendent....
+(attendre: Libre(créer un crud avec le théme Halloween || Noel || saint-valentin))
+
+Le partage de code,fichiers etc.. en dehors du terminal git est interdit.
+
+
+
+Créer un nom d'équipe.
+Créer un site dessin animé En respectant le SEO
+
+20 dessins
+5 auteurs
+1: Créer un dossier de travail et upload sur github.
+2: ajoute en collaboration ton équipe
+ETAPE DE GROUPE: Créer une maquette à l'aide de FIGMA
+
+
+ETAPE: créer un header (nav)
+ETAPE: style header
+
+ETAPE: page accueil 
+ETAPE: style page accueil
+
+ETAPE: créer un footer
+ETAPE: style footer
+
+ETAPE: BDD dessin/table: item (colonne: id_item/dessin/description/image
+ETAPE: BDD dessin/table: auteur (colonne: id_auteur/nom/style/photo
+
+ETAPE: read
+ETAPE: create
+ETAPE: update
+ETAPE: delete
+
+ETAPE: conditions (messages d'erreurs individuels)
+ETAPE: barre de recherche
+
+ETAPE DE GROUPE:
+Créez un login (le login vous permet d'accéder au CRUD)
+Créez votre vidéo de présentation 
+Créez un flyer pour présenter votre site (avec QRcode)
+UPLOADEZ votre site sur le web
+
+
+ETAPE === ETAPE individuel
