@@ -23,7 +23,7 @@
         <a class="nav-link" href="index.php"><button type="button" class="btn-inline-white btn-dark">Home</button></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="index.php?action=champion"><button type="button" class="btn-inline-white btn-dark">Se connecter</button></a>
+        <a class="nav-link" href="index.php?action=login"><button type="button" class="btn-inline-white btn-dark">Se connecter</button></a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="index.php?action=listAnime"><button type="button" class="btn-inline-white btn-dark">Animés</button></a>
